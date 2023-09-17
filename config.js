@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['09018909938', 'Obi David', true],
-  [''],
+  ['09012734303', 'Tega', true],
   [''] 
 ] //Number of owners
 
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'Davis'
 global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
+global.author = 'Obi David' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
@@ -71,7 +71,7 @@ global.mlc = '📃'
 global.sdc = '🎶'
 global.xmoji = '🔥' 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '5' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
